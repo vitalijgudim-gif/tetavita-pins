@@ -106,6 +106,11 @@ PINS = [
          foot="3 retro designs · 11 cap colors",
          title="Retro Sunset Embroidered Dad Hat – 80s Synthwave Palm Tree Cap, Gift for Gamers",
          desc="Neon sunsets, palm trees and 80s night-drive vibes, embroidered with real thread on a low profile dad hat. Choose Stay Golden, Neon Coast or Flamingo Sunset in 11 cap colors. A cool gift for gamers, retro wave fans and anyone who loves synthwave, Miami-style summer nights and vintage 80s aesthetic."),
+    dict(src="free_shipping_badge/originals/4608931952.jpg", listing=4608931952, board="Christmas Gift Ideas", cover=0.5,
+         kicker="COLORING BOOK FOR ADULTS", head="Cozy Moments to Color and Relax",
+         foot="49 cozy home & garden scenes · 8.5 × 11 in",
+         title="Cozy Moments Coloring Book for Adults – 49 Easy Cozy Home & Garden Scenes",
+         desc="Slow down with 49 cozy home and garden scenes: snug reading corners, warm kitchens, knitted hats and blooming gardens. Easy bold line designs, one per page on thick paper – perfect for colored pencils. A relaxing Christmas gift for her, mom, grandma or any coloring lover, and a calm self-care activity for winter evenings."),
 ]
 
 
