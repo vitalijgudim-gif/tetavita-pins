@@ -95,11 +95,11 @@ PINS = [
          foot="7 designs · front + back print · S–3XL",
          title="Graffiti Teddy Bear Hoodie – Urban Streetwear Sweatshirt, Gift for Him or Her",
          desc="Bold graffiti teddy bear hoodies in 7 designs with front and back print. Urban hip hop streetwear in 8 colors, unisex sizes S–3XL. A cool Christmas gift for teens, him or her."),
-    dict(src="calendar_eu_promo/05_gift.jpg", listing=4619593661, board="Christmas Gift Ideas",
+    dict(src="calendar_eu_promo/05_gift.jpg", listing=4611879729, board="Christmas Gift Ideas",
          kicker="2027 WALL CALENDAR", head="The Funniest Calendar for Animal Lovers",
-         foot="Animal Zodiac · slim 14.8 × 40 cm",
+         foot="Animal Zodiac · slim hanging calendar",
          title="Funny Animal Zodiac Calendar 2027 – Slim Wall Calendar, Gift for Animal Lovers",
-         desc="12 hilarious party animals, one for every zodiac sign. Slim hanging wall calendar 2027 (14.8 x 40 cm) – a fun Christmas gift, Secret Santa idea or stocking stuffer for animal lovers and astrology fans."),
+         desc="12 hilarious party animals, one for every zodiac sign. Slim hanging wall calendar 2027 with US & Canadian holidays – a fun Christmas gift, Secret Santa idea or stocking stuffer for animal lovers and astrology fans."),
 ]
 
 
