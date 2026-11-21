@@ -100,6 +100,12 @@ PINS = [
          foot="Animal Zodiac · slim hanging calendar",
          title="Funny Animal Zodiac Calendar 2027 – Slim Wall Calendar, Gift for Animal Lovers",
          desc="12 hilarious party animals, one for every zodiac sign. Slim hanging wall calendar 2027 with US & Canadian holidays – a fun Christmas gift, Secret Santa idea or stocking stuffer for animal lovers and astrology fans."),
+    # Retro Sunset cap — never name the game/brand it is styled after (trademarks)
+    dict(src="05_Etsy_Photos/retro_cap/src/04.jpg", listing=4613453689, board="Christmas Gift Ideas",
+         kicker="RETRO 80s EMBROIDERED CAP", head="Neon Sunset Vibes, Stitched on a Cap",
+         foot="3 retro designs · 11 cap colors",
+         title="Retro Sunset Embroidered Dad Hat – 80s Synthwave Palm Tree Cap, Gift for Gamers",
+         desc="Neon sunsets, palm trees and 80s night-drive vibes, embroidered with real thread on a low profile dad hat. Choose Stay Golden, Neon Coast or Flamingo Sunset in 11 cap colors. A cool gift for gamers, retro wave fans and anyone who loves synthwave, Miami-style summer nights and vintage 80s aesthetic."),
 ]
 
 
