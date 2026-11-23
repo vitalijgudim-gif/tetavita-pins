@@ -235,6 +235,17 @@ PINS = [
          foot="Personalized initial ornament · 2026",
          title="Personalized Initial Ornament with Name 2026 – Kids Christmas Ornament, Stocking Stuffer",
          desc="A cheerful name ornament with a gold initial wearing a red Santa hat, plus the name and year 2026. A small personalized gift for kids, grandkids, friends and coworkers – perfect for stockings and gift toppers."),
+    # Cozy Moments digital PDF (23.11, slot 16:30). Artwork made with AI tools -> isAiGenerated
+    dict(num=44, src="cozy_moments/03_Etsy/Digital_listing/01_main.jpg", listing=4624058793, board="Christmas Gift Ideas",
+         cover=0.5, kicker="PRINTABLE COLORING BOOK", head="50 Cozy Coloring Pages to Print at Home",
+         foot="Instant PDF download · US Letter & A4",
+         title="Cozy Coloring Pages for Adults – 50 Easy Printable Coloring Book PDF, Instant Download",
+         desc="Slow down with 50 cozy coloring pages: warm mugs, sleepy pets, plants by the window and snug rooms, drawn with bold, easy lines. Download the PDF right after purchase, print at home in US Letter or A4 and color again and again. A relaxing screen-free activity and a last-minute printable stocking stuffer."),
+    dict(num=45, src="cozy_moments/03_Etsy/Digital_listing/02_peek_inside.jpg", listing=4624058793, board="Christmas Gift Ideas",
+         cover=0.5, kicker="EASY COLORING FOR ADULTS", head="Bold, Easy Lines – Print and Relax",
+         foot="50 pages · instant download · print again and again",
+         title="Easy Hygge Coloring Pages for Adults and Seniors – Printable PDF, Bold Simple Designs",
+         desc="Big, simple designs that are easy to finish in one evening: cozy rooms, kitchen shelves, fruit, pets and a peaceful garden. 50 printable pages in one PDF, US Letter and A4, one design per page. Great for beginners, seniors and anyone who wants a calm break from screens this winter."),
 ]
 
 
