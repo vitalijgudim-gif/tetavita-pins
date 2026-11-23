@@ -111,6 +111,28 @@ PINS = [
          foot="49 cozy home & garden scenes · 8.5 × 11 in",
          title="Cozy Moments Coloring Book for Adults – 49 Easy Cozy Home & Garden Scenes",
          desc="Slow down with 49 cozy home and garden scenes: snug reading corners, warm kitchens, knitted hats and blooming gardens. Easy bold line designs, one per page on thick paper – perfect for colored pencils. A relaxing Christmas gift for her, mom, grandma or any coloring lover, and a calm self-care activity for winter evenings."),
+    # 17–19 = Kawaii pins made outside this script; pet ornament starts at 20 (num= keeps file names stable)
+    # Pet photos in these pins are AI-generated examples -> schedule with isAiGenerated
+    dict(num=20, src="pet_ornament/mockups/dog_golden_mockup.jpg", listing=4623800039, board="Personalized Photo Gifts",
+         kicker="CUSTOM PET ORNAMENT", head="Your Pet's Photo on a Glass Ornament",
+         foot="Name + year · clear glass · 3 in",
+         title="Custom Pet Photo Ornament – Personalized Dog or Cat Christmas Ornament with Name",
+         desc="Hang your best friend on the tree! Your dog's or cat's photo printed on a clear glass Christmas ornament with their name and the year. Upload your photo when you order. A sweet keepsake and Christmas gift for dog moms, cat dads and every pet lover. Free shipping to the USA and Canada."),
+    dict(num=21, src="pet_ornament/mockups/dog_cat_duo_mockup.jpg", listing=4623800039, board="Christmas Gift Ideas",
+         kicker="FOR DOG & CAT FAMILIES", head="Two Best Friends, One Ornament",
+         foot="Two pets on one personalized ornament",
+         title="Personalized Ornament with Two Pets – Custom Dog and Cat Photo Christmas Gift",
+         desc="Dog and cat together on one ornament! Send a photo of your two pets and their names – we print them on a clear glass Christmas ornament. A cozy gift idea for pet families, dog and cat lovers, and a keepsake for the first Christmas in a new home."),
+    dict(num=22, src="pet_ornament/mockups/dog_memorial_mockup.jpg", listing=4623800039, board="Christmas Gift Ideas",
+         kicker="PET MEMORIAL GIFT", head="Forever in Our Hearts",
+         foot="A gentle keepsake for a beloved pet",
+         title="Pet Memorial Ornament with Photo – Dog or Cat Loss Keepsake, Sympathy Gift",
+         desc="Remember a beloved dog or cat every Christmas. Their photo and name on a clear glass ornament with a short line like Forever in our hearts. A thoughtful pet loss sympathy gift for a friend, or a keepsake for your own tree. Free shipping to the USA and Canada."),
+    dict(num=23, src="pet_ornament/mockups/cat_orange_mockup.jpg", listing=4623800039, board="Personalized Photo Gifts",
+         kicker="GIFT FOR CAT LOVERS", head="Your Cat, Hanging on the Tree",
+         foot="Upload photo · add name · we print & ship",
+         title="Custom Cat Photo Ornament – Personalized Cat Christmas Ornament, Gift for Cat Mom",
+         desc="Pick your favorite photo of your cat, add their name and a short line, and we print it on a 3 inch clear glass ornament. An easy personalized Christmas gift for cat moms, cat dads and every cat lover – ready to hang with a red ribbon. Free shipping to the USA and Canada."),
 ]
 
 
@@ -181,7 +203,7 @@ def make(pin, idx):
 def main():
     batch = []
     for i, p in enumerate(PINS, 1):
-        name = make(p, i)
+        name = make(p, p.get("num", i))
         batch.append(dict(file=name, board=p["board"], title=p["title"], description=p["desc"],
                           link=ETSY.format(p["listing"]),
                           image_url=f"https://raw.githubusercontent.com/vitalijgudim-gif/tetavita-pins/main/pins/{name}"))
