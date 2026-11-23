@@ -246,6 +246,17 @@ PINS = [
          foot="50 pages · instant download · print again and again",
          title="Easy Hygge Coloring Pages for Adults and Seniors – Printable PDF, Bold Simple Designs",
          desc="Big, simple designs that are easy to finish in one evening: cozy rooms, kitchen shelves, fruit, pets and a peaceful garden. 50 printable pages in one PDF, US Letter and A4, one design per page. Great for beginners, seniors and anyone who wants a calm break from screens this winter."),
+    # Activity book digital PDF (23.11, slot 16:30). Cover/certificate art made with AI tools -> isAiGenerated
+    dict(num=46, src="раб.тетрать 1/digital/etsy/01_main.jpg", listing=4624076778, board="Christmas Gift Ideas",
+         cover=0.5, kicker="PRINTABLE · AGES 3–5", head="Christmas Activity Book to Print at Home",
+         foot="50 pages · instant PDF download · US Letter & A4",
+         title="Printable Christmas Activity Book for Kids 3-5 – Preschool Worksheets PDF, Instant Download",
+         desc="50 Christmas activity pages for preschoolers: coloring, tracing, mazes, counting, matching and dot to dot. Download the PDF right after purchase and print at home in US Letter or A4. Screen-free fun for Christmas break, long car rides and the Christmas Eve box, plus a Christmas Champion certificate."),
+    dict(num=47, src="раб.тетрать 1/digital/etsy/02_peek_inside.jpg", listing=4624076778, board="Christmas Gift Ideas",
+         cover=0.5, kicker="CHRISTMAS EVE BOX IDEA", head="Mazes, Tracing and Coloring for Little Hands",
+         foot="Print only the pages you need · again and again",
+         title="Christmas Preschool Worksheets – Tracing, Mazes, Counting and Coloring Pages PDF",
+         desc="Keep little hands busy this Christmas: trace the candy canes, help the reindeer through the maze, count the gingerbread men and color Santa. 50 printable pages for ages 3-5 in one PDF, US Letter and A4. A last-minute printable stocking stuffer for preschool, homeschool and holiday travel."),
 ]
 
 
