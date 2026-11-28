@@ -475,6 +475,28 @@ PINS = [
          foot="A thank-you note from Santa for the cookies",
          title="Santa Was Here Note Printable – Thank You for the Cookies, Christmas Morning",
          desc="Leave crumbs, a bitten carrot and a note from Santa: thank you for the yummy cookies and the cold milk! A printable vintage note with your child's name, part of our Letter from Santa & Christmas Eve Kit with Santa's letter, Nice List certificate and more."),
+    # 94-97: Mr & Mrs glass heart (28.11). AI scenes (Leonardo) with OUR ornament composited (05_Etsy_Photos/mr_mrs_ads).
+    # isAiGenerated; isAiGeneratedPerson for 95 (couple's hands), see mrmrs_batch.json
+    dict(num=94, src='05_Etsy_Photos/mr_mrs_ads/m1_tree_etsy_3000x2250.jpg', cover=0.5, listing=4612755942, board='Christmas Gift Ideas',
+         kicker='FIRST CHRISTMAS MARRIED', head='Our First Christmas as Mr & Mrs',
+         foot='Glass heart ornament · your names + year',
+         title='Our First Christmas as Mr and Mrs Ornament 2026 – Personalized Glass Heart',
+         desc='Your first Christmas as husband and wife deserves a place on the tree. A glass heart ornament with gold snowflakes, a tuxedo and a wedding dress, your names and the year 2026. A keepsake you will hang every December. Free shipping to the USA and Canada.'),
+    dict(num=95, src='05_Etsy_Photos/mr_mrs_ads/m2_hands_etsy_3000x2250.jpg', cover=0.5, listing=4612755942, board='Christmas Gift Ideas',
+         kicker='NEWLYWED CHRISTMAS', head='Hang Your First Ornament Together',
+         foot='Personalized with both of your names',
+         title='First Christmas Married Ornament with Names – Newlywed Couple Gift 2026',
+         desc='Start a new tradition: hang your very first ornament together as Mr & Mrs. A personalized glass heart with both of your names and the year, gold snowflake design. A sweet gift for newlyweds, your spouse or the bride and groom. Free shipping to the USA and Canada.'),
+    dict(num=96, src='05_Etsy_Photos/mr_mrs_ads/m3_box_etsy_3000x2250.jpg', cover=0.5, listing=4612755942, board='Christmas Gift Ideas',
+         kicker='WEDDING GIFT IDEA', head='The Sweetest Gift for the Newlyweds',
+         foot='Mr & Mrs heart ornament with their names',
+         title='Wedding Christmas Ornament Gift for Newlyweds – Mr and Mrs Glass Heart',
+         desc='Looking for a gift for a couple who just got married? A personalized Mr & Mrs glass heart ornament with their names and the year of their first Christmas together. Pretty in a gift box with a red ribbon. Free shipping to the USA and Canada.'),
+    dict(num=97, src='05_Etsy_Photos/mr_mrs_ads/m5_album_etsy_3000x2250.jpg', cover=0.5, listing=4612755942, board='Christmas Gift Ideas',
+         kicker='WEDDING KEEPSAKE', head='Remember Your First Christmas Together',
+         foot='Names + year on a glass heart ornament',
+         title='Mr and Mrs Keepsake Ornament – First Christmas Together, Names and Year',
+         desc='Next to the wedding album, a little keepsake for your first Christmas as a married couple: a glass heart ornament with your names, the year and gold snowflakes. A thoughtful anniversary, wedding or engagement gift. Free shipping to the USA and Canada.'),
 ]
 
 
